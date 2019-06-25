@@ -5,11 +5,10 @@ import random
 import pyowm
 import time
 
-owm= pyowm.OWM(API_key='08ecab7ec3081e73f292598b28b53b62')
-apiKey = "K6Hso0OsudmpCRpYoHpPUdhKt"
-apiSecret = "oALIksO0R7P9maX0G4KIo1ICv4eC0ODZvBRhoKeav9iWUzyLo5"
-accessToken = "832293691888918533-xPRRik0FVZhASooHK6VH0e8Q2BQ47a6"
-accessTokenSecret = "MnYkHzZedctJ7QH0oz3Tryh9pfIU2fNqpuR4ht67AHFXr"
+owm= pyowm.OWM(API_key='')
+apiKey = ""
+apiSecret = ""
+accessTokenSecret = ""
 
 cv=0
 wv= 0
